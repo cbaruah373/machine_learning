@@ -1,0 +1,37 @@
+car_name,drive_type,engine_cyls,cylinder_layout,engine_displacement,induction_type,engine_output_ps,engine_torque_n_m,car_weight,gearbox_type,number_of_gears,drag_coeff,top_speed,0_100_kmh_time,tires_used,tyre_size_inches,ground_clearance,predicted_lap_time_seconds,cluster,similar_cars,average_lap_time_in_cluster
+CarA,AWD,6,V,3500,turbo,500,550,1600,Sequential,7,0.3,300,4.0,Michelin Pilot Sport 4,20,120,249.73930416666653,9,"  car_name  official_lap_time
+0    Car86             244.00
+1   Car155             244.40
+2   Car125             244.25
+3   Car196             244.40
+4   Car101             244.35",245.43846153846155
+CarB,RWD,8,V,5000,naturally_aspirated,600,650,1800,Manual,6,0.35,320,3.5,Pirelli P Zero,19,110,236.94020000000012,8,"  car_name  official_lap_time
+0     Car4             230.45
+1    Car66             240.90
+2   Car105             240.40
+3    Car35             243.40
+4    Car94             241.50",236.51785714285717
+CarC,FWD,4,Inline,2000,supercharger,300,350,1400,Sequential,6,0.28,250,6.5,Bridgestone Potenza RE-71R,18,130,259.9335500000001,6,"  car_name  official_lap_time
+0    Car27             263.15
+1    Car49             260.30
+2    Car72             266.85
+3   Car100             266.30
+4    Car11             262.90",262.1145833333333
+CarD,AWD,6,V,3000,turbo,400,500,1700,Sequential,6,0.29,280,4.5,Goodyear Eagle F1,20,125,253.51455476190486,7,"  car_name  official_lap_time
+0    Car79             255.85
+1   Car136             251.25
+2   Car177             251.25
+3   Car164             252.40
+4    Car95             252.20",254.59117647058824
+CarE,RWD,8,V,6000,naturally_aspirated,650,700,1900,Manual,6,0.38,330,3.0,Hankook Ventus RS4,18,115,236.33516666666665,5,"  car_name  official_lap_time
+0    Car12             235.20
+1    Car20             232.90
+2   Car176             239.80
+3   Car135             239.80
+4    Car28             233.75",227.29375000000002
+CarF,FWD,4,Flat,2500,turbo,350,400,1500,CVT,7,0.32,260,5.5,Toyo Proxes R1R,19,135,258.98508749999996,6,"  car_name  official_lap_time
+0     Car6             252.60
+1    Car14             254.25
+2   Car141             267.10
+3   Car182             267.10
+4     Car2             250.20",262.1145833333333

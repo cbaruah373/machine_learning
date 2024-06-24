@@ -1,0 +1,7 @@
+car_name,drive_type,engine_cyls,cylinder_layout,engine_displacement,induction_type,engine_output_ps,engine_torque_n_m,car_weight,gearbox_type,number_of_gears,drag_coeff,top_speed,0_100_kmh_time,tires_used,tyre_size_inches,ground_clearance
+CarA,AWD,6,V,3500,turbo,500,550,1600,Sequential,7,0.3,300,4.0,Michelin Pilot Sport 4,20,120
+CarB,RWD,8,V,5000,naturally_aspirated,600,650,1800,Manual,6,0.35,320,3.5,Pirelli P Zero,19,110
+CarC,FWD,4,Inline,2000,supercharger,300,350,1400,Sequential,6,0.28,250,6.5,Bridgestone Potenza RE-71R,18,130
+CarD,AWD,6,V,3000,turbo,400,500,1700,Sequential,6,0.29,280,4.5,Goodyear Eagle F1,20,125
+CarE,RWD,8,V,6000,naturally_aspirated,650,700,1900,Manual,6,0.38,330,3.0,Hankook Ventus RS4,18,115
+CarF,FWD,4,Flat,2500,turbo,350,400,1500,CVT,7,0.32,260,5.5,Toyo Proxes R1R,19,135

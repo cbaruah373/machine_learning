@@ -1,0 +1,207 @@
+car_name,drive_type,engine_cyls,cylinder_layout,engine_displacement,induction_type,engine_output_ps,engine_torque_n_m,car_weight,gearbox_type,number_of_gears,drag_coeff,top_speed,0_100_kmh_time,tires_used,tyre_size_inches,ground_clearance,official_lap_time
+Car1,RWD,6,V,3500,naturally_aspirated,400,450,1400,Manual,6,0.32,270,4.5,Michelin Pilot Sport 4,18,120,04:02.35
+Car2,AWD,4,Flat,2500,turbo,350,380,1600,Automatic,8,0.29,250,5.2,Pirelli P Zero,19,110,04:10.20
+Car3,FWD,4,Inline,2000,supercharger,300,320,1300,DCT,7,0.35,240,6.0,Continental ExtremeContact Sport,17,130,04:15.80
+Car4,4WD,8,V,6000,both,600,650,1800,Manual,6,0.28,320,3.5,Bridgestone Potenza RE-71R,20,105,03:50.45
+Car5,RWD,6,V,4500,turbo,550,600,1600,Sequential,7,0.31,300,4.0,Michelin Pilot Sport Cup 2,19,125,04:05.90
+Car6,AWD,4,Inline,2500,naturally_aspirated,320,350,1500,Manual,6,0.30,260,5.5,Goodyear Eagle F1,18,115,04:12.60
+Car7,FWD,3,Inline,1800,supercharger,250,280,1200,CVT,8,0.34,230,6.5,Hankook Ventus RS4,17,135,04:20.15
+Car8,4WD,10,V,7000,both,700,750,2000,Sequential,8,0.27,340,3.2,Toyo Proxes R1R,20,100,03:45.75
+Car9,RWD,6,Inline,3000,turbo,450,500,1550,DCT,7,0.33,280,4.2,Continental ContiSportContact 5,19,122,04:08.75
+Car10,AWD,4,Flat,2300,both,380,400,1700,Manual,6,0.29,270,4.8,Bridgestone Potenza S-04 Pole Position,18,112,04:18.40
+Car11,FWD,4,V,2200,naturally_aspirated,280,300,1400,Sequential,8,0.32,250,5.8,Michelin Pilot Sport PS2,17,128,04:22.90
+Car12,4WD,8,V,5500,turbo,600,650,1900,DCT,7,0.28,330,3.7,Pirelli P Zero Corsa,20,103,03:55.20
+Car13,RWD,6,V,4000,supercharger,500,550,1650,Manual,6,0.30,310,4.5,Goodyear Eagle Exhilarate,19,118,04:00.60
+Car14,AWD,4,Inline,2700,naturally_aspirated,350,380,1550,Automatic,8,0.31,260,5.3,Continental ExtremeContact DWS 06,18,114,04:14.25
+Car15,FWD,3,Inline,1600,turbo,230,250,1100,Manual,6,0.35,220,7.0,Hankook Ventus RS4,16,140,04:25.10
+Car16,4WD,12,V,6500,both,750,800,2100,Sequential,8,0.26,360,3.0,Toyo Proxes T1R,21,98,03:40.80
+Car17,RWD,6,Inline,3200,turbo,500,550,1700,DCT,7,0.32,290,4.0,Michelin Pilot Sport 4S,20,123,04:06.30
+Car18,AWD,4,Flat,2600,supercharger,400,420,1750,Manual,6,0.30,280,4.7,Bridgestone Potenza RE-71R,19,110,04:16.75
+Car19,FWD,4,V,2000,naturally_aspirated,280,300,1300,CVT,8,0.33,240,6.2,Pirelli P Zero,17,132,04:21.45
+Car20,4WD,8,V,5000,both,650,700,1850,Sequential,8,0.27,330,3.5,Continental ContiSportContact 6,20,102,03:52.90
+Car21,RWD,6,Inline,3500,turbo,550,600,1600,Manual,6,0.31,310,4.2,Hankook Ventus RS4,19,120,04:10.80
+Car22,AWD,4,Flat,2400,naturally_aspirated,330,360,1650,Automatic,8,0.29,260,5.5,Michelin Pilot Sport Cup 2,18,114,04:13.20
+Car23,FWD,3,Inline,1800,supercharger,250,280,1200,Manual,6,0.34,230,6.0,Bridgestone Potenza S-04 Pole Position,17,128,04:19.60
+Car24,4WD,10,V,6800,both,700,750,2000,DCT,7,0.27,340,3.2,Goodyear Eagle Exhilarate,21,99,03:48.30
+Car25,RWD,6,V,4200,naturally_aspirated,450,500,1550,Sequential,7,0.29,300,4.3,Continental ExtremeContact Sport,20,122,04:05.10
+Car26,AWD,4,Inline,2600,turbo,370,400,1700,Manual,6,0.30,270,4.9,Hankook Ventus RS4,18,112,04:17.40
+Car27,FWD,4,V,2300,naturally_aspirated,300,320,1400,Automatic,8,0.32,250,5.7,Pirelli P Zero Corsa,17,130,04:23.15
+Car28,4WD,8,V,5700,both,600,650,1900,Sequential,8,0.28,320,3.6,Michelin Pilot Sport PS2,20,103,03:53.75
+Car29,RWD,6,Inline,3800,supercharger,520,550,1650,Manual,6,0.30,320,4.4,Continental ExtremeContact DWS 06,19,118,04:01.80
+Car30,AWD,4,Flat,2800,turbo,380,420,1600,Automatic,8,0.31,280,5.2,Bridgestone Potenza RE-71R,18,110,04:12.05
+Car31,RWD,6,V,4100,naturally_aspirated,480,520,1570,DCT,7,0.30,305,4.1,Pirelli P Zero,20,121,04:07.90
+Car32,AWD,4,Flat,2700,turbo,380,420,1650,Manual,6,0.29,275,4.6,Michelin Pilot Sport 4,19,113,04:16.20
+Car33,FWD,4,Inline,1900,supercharger,280,300,1250,CVT,8,0.33,245,6.3,Continental ExtremeContact Sport,18,130,04:19.75
+Car34,4WD,8,V,5800,both,620,670,1950,Sequential,8,0.27,345,3.4,Bridgestone Potenza RE-71R,21,101,03:46.50
+Car35,RWD,6,V,4800,turbo,600,650,1750,Manual,6,0.31,315,4.0,Michelin Pilot Sport Cup 2,20,124,04:03.40
+Car36,AWD,4,Inline,2900,naturally_aspirated,370,400,1600,Automatic,8,0.30,280,4.8,Goodyear Eagle F1,19,116,04:13.90
+Car37,FWD,3,Inline,1700,turbo,240,260,1150,Manual,6,0.36,225,7.2,Hankook Ventus RS4,16,138,04:26.40
+Car38,4WD,12,V,6700,both,770,820,2050,Sequential,8,0.26,370,2.9,Toyo Proxes R1R,22,97,03:38.20
+Car39,RWD,6,Inline,3300,supercharger,520,560,1700,Manual,6,0.30,325,4.3,Continental ContiSportContact 5,20,121,04:11.20
+Car40,AWD,4,Flat,2500,both,400,430,1800,Manual,6,0.29,280,5.0,Bridgestone Potenza S-04 Pole Position,18,111,04:20.90
+Car41,FWD,4,V,2100,naturally_aspirated,290,310,1350,CVT,8,0.32,255,6.0,Pirelli P Zero,17,133,04:25.50
+Car42,4WD,10,V,7100,both,720,770,2100,DCT,7,0.27,355,3.1,Pirelli P Zero Corsa,21,100,03:51.10
+Car43,RWD,6,V,4200,supercharger,520,560,1650,Manual,6,0.31,330,4.0,Goodyear Eagle Exhilarate,20,119,04:02.70
+Car44,AWD,4,Inline,2700,naturally_aspirated,360,390,1650,Automatic,8,0.31,270,5.4,Michelin Pilot Sport 4S,18,115,04:14.90
+Car45,FWD,3,Inline,1600,turbo,250,270,1200,Manual,6,0.36,220,7.0,Continental ExtremeContact DWS 06,16,139,04:27.80
+Car46,4WD,8,V,6300,both,680,720,2000,Sequential,8,0.26,365,2.8,Toyo Proxes T1R,23,96,03:36.80
+Car47,RWD,6,Inline,3500,turbo,560,600,1650,Manual,6,0.30,315,4.1,Hankook Ventus RS4,19,120,04:09.60
+Car48,AWD,4,Flat,2600,naturally_aspirated,340,370,1700,Automatic,8,0.28,265,5.3,Michelin Pilot Sport Cup 2,18,113,04:11.80
+Car49,FWD,4,V,2200,supercharger,300,320,1400,Manual,6,0.33,245,6.2,Bridgestone Potenza RE-71R,17,129,04:20.30
+Car50,4WD,8,V,5300,both,670,720,1850,Sequential,8,0.27,340,3.3,Continental ContiSportContact 6,20,101,03:49.80
+Car51,RWD,6,Inline,3600,turbo,580,620,1600,Manual,6,0.31,325,4.2,Hankook Ventus RS4,20,122,04:08.20
+Car52,AWD,4,Flat,2500,turbo,390,420,1650,Automatic,8,0.29,275,4.7,Michelin Pilot Sport Cup 2,19,115,04:15.40
+Car53,FWD,3,Inline,1900,supercharger,270,290,1300,CVT,8,0.34,240,6.5,Bridgestone Potenza S-04 Pole Position,17,129,04:19.10
+Car54,4WD,10,V,7000,both,700,750,2050,Sequential,8,0.27,345,3.2,Goodyear Eagle Exhilarate,21,98,03:48.60
+Car55,RWD,6,V,4400,naturally_aspirated,470,510,1600,Sequential,7,0.29,305,4.3,Continental ExtremeContact Sport,20,121,04:04.50
+Car56,AWD,4,Inline,2500,turbo,350,380,1750,Manual,6,0.30,280,4.9,Hankook Ventus RS4,18,112,04:16.70
+Car57,FWD,4,V,2300,naturally_aspirated,310,330,1350,Automatic,8,0.32,255,5.8,Pirelli P Zero Corsa,17,131,04:23.80
+Car58,4WD,8,V,5900,both,630,670,1950,Sequential,8,0.28,350,3.5,Michelin Pilot Sport PS2,20,104,03:52.30
+Car59,RWD,6,Inline,3900,supercharger,540,580,1700,Manual,6,0.30,320,4.5,Continental ExtremeContact DWS 06,19,118,04:02.10
+Car60,AWD,4,Flat,2900,turbo,400,430,1600,Automatic,8,0.31,280,5.2,Bridgestone Potenza RE-71R,18,110,04:12.80
+Car61,FWD,4,Inline,2000,supercharger,300,320,1300,DCT,7,0.35,240,6.0,Michelin Pilot Sport 4S,17,132,04:14.55
+Car62,RWD,6,V,4200,naturally_aspirated,500,550,1650,DCT,7,0.30,320,3.9,Pirelli P Zero,20,120,04:05.75
+Car63,AWD,4,Flat,2800,turbo,400,430,1750,Manual,6,0.28,285,4.5,Michelin Pilot Sport 4,19,114,04:14.10
+Car64,FWD,4,Inline,2000,supercharger,280,300,1300,CVT,8,0.34,245,6.4,Continental ExtremeContact Sport,18,129,04:18.90
+Car65,4WD,8,V,5900,both,620,670,2000,Sequential,8,0.27,350,3.3,Bridgestone Potenza RE-71R,21,101,03:48.25
+Car66,RWD,6,V,4900,turbo,620,660,1800,Manual,6,0.30,330,3.8,Michelin Pilot Sport Cup 2,20,123,04:00.90
+Car67,AWD,4,Inline,3000,naturally_aspirated,380,400,1650,Automatic,8,0.29,280,5.0,Goodyear Eagle F1,19,117,04:11.50
+Car68,FWD,3,Inline,1800,turbo,250,270,1200,Manual,6,0.36,225,7.2,Hankook Ventus RS4,16,138,04:26.20
+Car69,4WD,12,V,6900,both,760,810,2050,Sequential,8,0.26,375,2.8,Toyo Proxes R1R,22,96,03:37.10
+Car70,RWD,6,Inline,3400,supercharger,540,580,1750,Manual,6,0.30,330,3.9,Continental ContiSportContact 5,20,121,04:10.30
+Car71,AWD,4,Flat,2600,both,410,440,1850,Manual,6,0.29,285,4.8,Bridgestone Potenza S-04 Pole Position,18,112,04:21.15
+Car72,FWD,4,V,2300,naturally_aspirated,300,320,1400,CVT,8,0.32,255,6.0,Pirelli P Zero,17,133,04:26.85
+Car73,4WD,10,V,7200,both,740,790,2100,DCT,7,0.27,360,3.0,Pirelli P Zero Corsa,21,99,03:50.40
+Car74,RWD,6,V,4300,supercharger,530,570,1700,Manual,6,0.31,335,3.9,Goodyear Eagle Exhilarate,20,119,04:01.25
+Car75,AWD,4,Inline,2800,naturally_aspirated,360,390,1600,Automatic,8,0.30,280,4.9,Michelin Pilot Sport 4S,18,115,04:14.50
+Car76,FWD,3,Inline,1700,turbo,260,280,1250,Manual,6,0.36,220,7.0,Continental ExtremeContact DWS 06,16,139,04:28.15
+Car77,4WD,8,V,6400,both,690,730,2000,Sequential,8,0.26,370,2.9,Toyo Proxes T1R,23,96,03:36.45
+Car78,RWD,6,V,3600,turbo,590,630,1650,Manual,6,0.30,325,4.1,Hankook Ventus RS4,19,121,04:10.00
+Car79,AWD,4,Flat,2500,turbo,400,430,1700,Automatic,8,0.29,280,5.4,Michelin Pilot Sport Cup 2,19,114,04:15.85
+Car80,FWD,4,V,2200,supercharger,320,340,1400,Manual,6,0.33,245,6.2,Bridgestone Potenza RE-71R,17,129,04:21.75
+Car81,4WD,8,V,5400,both,660,710,1950,Sequential,8,0.27,340,3.2,Continental ContiSportContact 6,20,101,03:49.15
+Car82,RWD,6,Inline,3700,turbo,600,640,1600,Manual,6,0.31,330,4.0,Hankook Ventus RS4,20,122,04:07.60
+Car83,AWD,4,Flat,2600,turbo,410,440,1750,Automatic,8,0.28,285,4.7,Michelin Pilot Sport Cup 2,18,113,04:11.20
+Car84,FWD,3,Inline,1900,supercharger,280,300,1300,CVT,8,0.34,240,6.5,Bridgestone Potenza S-04 Pole Position,17,129,04:19.55
+Car85,4WD,10,V,7100,both,720,770,2050,Sequential,8,0.27,355,3.1,Goodyear Eagle Exhilarate,21,98,03:51.75
+Car86,RWD,6,V,4500,naturally_aspirated,480,520,1600,Sequential,7,0.29,315,4.2,Continental ExtremeContact Sport,20,120,04:04.00
+Car87,AWD,4,Inline,2600,turbo,360,390,1700,Manual,6,0.30,280,4.8,Hankook Ventus RS4,18,112,04:16.40
+Car88,FWD,4,V,2300,naturally_aspirated,310,330,1350,Automatic,8,0.32,255,5.7,Pirelli P Zero Corsa,17,131,04:23.40
+Car89,4WD,8,V,5700,both,620,670,1950,Sequential,8,0.28,350,3.5,Michelin Pilot Sport PS2,20,104,03:52.85
+Car90,RWD,6,Inline,3900,supercharger,540,580,1700,Manual,6,0.30,320,4.4,Continental ExtremeContact DWS 06,19,118,04:02.65
+Car91,AWD,4,Flat,2900,turbo,400,430,1600,Automatic,8,0.31,280,5.2,Bridgestone Potenza RE-71R,18,110,04:12.45
+Car92,FWD,4,Inline,2000,supercharger,300,320,1300,DCT,7,0.35,240,6.0,Michelin Pilot Sport 4S,17,132,04:14.80
+Car93,4WD,8,V,6000,both,650,700,1850,Sequential,8,0.27,340,3.3,Pirelli P Zero,20,102,03:49.50
+Car94,RWD,6,V,4600,turbo,640,680,1750,Manual,6,0.31,335,3.8,Hankook Ventus RS4,21,120,04:01.50
+Car95,AWD,4,Flat,2700,turbo,420,450,1700,Automatic,8,0.29,285,4.5,Goodyear Eagle F1,19,116,04:12.20
+Car96,FWD,3,Inline,1800,turbo,270,290,1250,Manual,6,0.36,225,7.1,Hankook Ventus RS4,16,137,04:25.70
+Car97,4WD,12,V,7000,both,750,800,2100,Sequential,8,0.26,370,2.9,Toyo Proxes R1R,22,97,03:37.50
+Car98,RWD,6,V,3800,supercharger,550,590,1650,Manual,6,0.31,325,4.0,Continental ContiSportContact 5,20,121,04:08.85
+Car99,AWD,4,Flat,2600,both,410,440,1850,Manual,6,0.29,285,4.8,Bridgestone Potenza S-04 Pole Position,18,112,04:20.60
+Car100,FWD,4,V,2200,naturally_aspirated,290,310,1400,CVT,8,0.32,255,6.1,Pirelli P Zero,17,133,04:26.30
+Car101,RWD,6,V,4300,naturally_aspirated,510,550,1600,DCT,7,0.29,325,3.8,Pirelli P Zero,21,119,04:04.35
+Car102,AWD,4,Flat,2900,turbo,420,450,1800,Manual,6,0.28,290,4.4,Michelin Pilot Sport 4,20,113,04:14.70
+Car103,FWD,4,Inline,2100,supercharger,290,310,1350,CVT,8,0.33,250,6.3,Continental ExtremeContact Sport,19,128,04:19.25
+Car104,4WD,8,V,6100,both,640,680,1950,Sequential,8,0.27,355,3.3,Bridgestone Potenza RE-71R,22,100,03:47.20
+Car105,RWD,6,V,5000,turbo,640,680,1800,Manual,6,0.30,335,3.7,Michelin Pilot Sport Cup 2,21,122,04:00.40
+Car106,AWD,4,Inline,3100,naturally_aspirated,400,420,1650,Automatic,8,0.28,280,5.1,Goodyear Eagle F1,20,117,04:11.90
+Car107,FWD,3,Inline,1900,turbo,260,280,1300,Manual,6,0.36,225,7.3,Hankook Ventus RS4,17,138,04:27.10
+Car108,4WD,12,V,7000,both,760,810,2100,Sequential,8,0.26,370,2.8,Toyo Proxes R1R,23,96,03:37.80
+Car109,RWD,6,Inline,3500,supercharger,550,590,1700,Manual,6,0.31,330,3.8,Continental ContiSportContact 5,21,119,04:10.80
+Car110,AWD,4,Flat,2700,both,420,450,1850,Manual,6,0.29,290,4.9,Bridgestone Potenza S-04 Pole Position,19,112,04:21.75
+Car111,FWD,4,V,2400,naturally_aspirated,320,340,1400,CVT,8,0.32,255,6.1,Pirelli P Zero,18,133,04:26.90
+Car112,4WD,10,V,7300,both,750,800,2050,DCT,7,0.27,365,3.0,Pirelli P Zero Corsa,22,98,03:50.90
+Car113,RWD,6,V,4400,supercharger,540,580,1700,Manual,6,0.31,335,3.8,Goodyear Eagle Exhilarate,21,120,04:01.85
+Car114,AWD,4,Inline,2900,naturally_aspirated,370,400,1600,Automatic,8,0.30,280,4.9,Michelin Pilot Sport 4S,19,115,04:14.80
+Car115,FWD,3,Inline,1800,turbo,270,290,1250,Manual,6,0.36,220,7.2,Continental ExtremeContact DWS 06,16,139,04:28.35
+Car116,4WD,8,V,6500,both,690,730,2000,Sequential,8,0.26,370,2.9,Toyo Proxes T1R,24,96,03:36.20
+Car117,RWD,6,V,3700,turbo,600,640,1650,Manual,6,0.30,325,4.0,Hankook Ventus RS4,21,122,04:07.85
+Car118,AWD,4,Flat,2600,turbo,410,440,1800,Automatic,8,0.28,290,4.6,Michelin Pilot Sport Cup 2,20,113,04:11.50
+Car119,FWD,4,V,2300,supercharger,320,340,1400,Manual,6,0.33,245,6.2,Bridgestone Potenza RE-71R,18,129,04:22.30
+Car120,4WD,8,V,5800,both,640,690,1950,Sequential,8,0.27,350,3.2,Continental ContiSportContact 6,21,101,03:50.40
+Car121,RWD,6,Inline,3600,turbo,600,640,1600,Manual,6,0.31,330,4.0,Hankook Ventus RS4,21,122,04:08.50
+Car122,AWD,4,Flat,2700,turbo,420,450,1800,Automatic,8,0.29,290,4.7,Michelin Pilot Sport Cup 2,19,114,04:11.85
+Car123,FWD,3,Inline,1900,supercharger,280,300,1300,CVT,8,0.34,240,6.5,Bridgestone Potenza S-04 Pole Position,17,129,04:19.80
+Car124,4WD,10,V,7100,both,720,770,2050,Sequential,8,0.27,355,3.1,Goodyear Eagle Exhilarate,22,98,03:51.25
+Car125,RWD,6,V,4600,naturally_aspirated,480,520,1600,Sequential,7,0.29,315,4.2,Continental ExtremeContact Sport,21,120,04:04.25
+Car126,AWD,4,Inline,2700,turbo,360,390,1700,Manual,6,0.30,280,4.8,Hankook Ventus RS4,18,112,04:16.55
+Car127,FWD,4,V,2400,naturally_aspirated,310,330,1350,Automatic,8,0.32,255,5.8,Pirelli P Zero Corsa,18,131,04:24.10
+Car128,4WD,8,V,5900,both,630,670,1950,Sequential,8,0.28,350,3.5,Michelin Pilot Sport PS2,21,104,03:52.50
+Car129,RWD,6,Inline,3900,supercharger,540,580,1700,Manual,6,0.30,320,4.4,Continental ExtremeContact DWS 06,20,119,04:02.35
+Car130,AWD,4,Flat,2900,turbo,400,430,1600,Automatic,8,0.31,280,5.2,Bridgestone Potenza RE-71R,18,110,04:12.55
+Car131,RWD,6,V,4400,naturally_aspirated,520,560,1650,DCT,7,0.29,330,3.7,Pirelli P Zero,21,118,04:03.60
+Car132,AWD,4,Flat,3000,turbo,450,480,1850,Manual,6,0.28,295,4.3,Michelin Pilot Sport 4,20,112,04:14.20
+Car133,FWD,4,Inline,2200,supercharger,300,320,1350,CVT,8,0.32,250,6.2,Continental ExtremeContact Sport,19,127,04:19.45
+Car134,4WD,8,V,6200,both,660,700,2000,Sequential,8,0.27,360,3.2,Bridgestone Potenza RE-71R,22,99,03:46.85
+Car135,RWD,6,V,5100,turbo,660,700,1850,Manual,6,0.30,340,3.6,Michelin Pilot Sport Cup 2,21,121,03:59.80
+Car136,AWD,4,Inline,3200,naturally_aspirated,420,450,1700,Automatic,8,0.28,285,5.0,Goodyear Eagle F1,20,116,04:11.25
+Car137,FWD,3,Inline,2000,turbo,270,290,1300,Manual,6,0.35,220,7.3,Hankook Ventus RS4,17,138,04:27.35
+Car138,4WD,12,V,7100,both,770,820,2050,Sequential,8,0.26,375,2.8,Toyo Proxes R1R,24,96,03:37.25
+Car139,RWD,6,Inline,3600,supercharger,560,600,1750,Manual,6,0.31,340,3.7,Continental ContiSportContact 5,21,118,04:10.50
+Car140,AWD,4,Flat,2800,both,430,460,1900,Manual,6,0.29,290,4.8,Bridgestone Potenza S-04 Pole Position,19,111,04:22.00
+Car141,FWD,4,V,2500,naturally_aspirated,330,350,1400,CVT,8,0.32,255,6.0,Pirelli P Zero,18,132,04:27.10
+Car142,4WD,10,V,7400,both,760,810,2100,DCT,7,0.27,365,2.9,Pirelli P Zero Corsa,23,97,03:50.60
+Car143,RWD,6,V,4500,supercharger,540,580,1700,Manual,6,0.31,335,3.8,Goodyear Eagle Exhilarate,21,120,04:02.10
+Car144,AWD,4,Inline,3000,naturally_aspirated,380,400,1650,Automatic,8,0.29,280,5.1,Michelin Pilot Sport 4S,19,115,04:14.60
+Car145,FWD,3,Inline,1900,turbo,260,280,1250,Manual,6,0.36,220,7.2,Continental ExtremeContact DWS 06,16,139,04:28.50
+Car146,4WD,8,V,6600,both,700,750,2000,Sequential,8,0.26,370,2.9,Toyo Proxes T1R,24,96,03:36.45
+Car147,RWD,6,V,3800,turbo,610,650,1650,Manual,6,0.30,330,3.9,Hankook Ventus RS4,21,121,04:08.10
+Car148,AWD,4,Flat,2800,turbo,430,460,1900,Automatic,8,0.28,295,4.7,Michelin Pilot Sport Cup 2,20,113,04:11.80
+Car149,FWD,4,V,2400,supercharger,320,340,1400,Manual,6,0.33,245,6.2,Bridgestone Potenza RE-71R,18,129,04:22.65
+Car150,4WD,8,V,5900,both,640,690,1950,Sequential,8,0.27,350,3.2,Continental ContiSportContact 6,21,101,03:50.80
+Car151,RWD,6,Inline,3700,turbo,600,640,1600,Manual,6,0.31,330,4.0,Hankook Ventus RS4,21,122,04:07.95
+Car152,AWD,4,Flat,2800,turbo,430,460,1850,Automatic,8,0.29,290,4.6,Michelin Pilot Sport Cup 2,19,114,04:11.95
+Car153,FWD,3,Inline,2000,supercharger,280,300,1300,CVT,8,0.34,240,6.5,Bridgestone Potenza S-04 Pole Position,17,129,04:20.05
+Car154,4WD,10,V,7200,both,720,770,2050,Sequential,8,0.27,355,3.1,Goodyear Eagle Exhilarate,22,98,03:51.35
+Car155,RWD,6,V,4600,naturally_aspirated,480,520,1600,Sequential,7,0.29,315,4.2,Continental ExtremeContact Sport,21,120,04:04.40
+Car156,AWD,4,Inline,2800,turbo,360,390,1700,Manual,6,0.30,280,4.8,Hankook Ventus RS4,18,112,04:16.70
+Car157,FWD,4,V,2400,naturally_aspirated,310,330,1350,Automatic,8,0.32,255,5.8,Pirelli P Zero Corsa,18,131,04:24.25
+Car158,4WD,8,V,5900,both,630,670,1950,Sequential,8,0.28,350,3.5,Michelin Pilot Sport PS2,21,104,03:52.15
+Car159,RWD,6,Inline,3900,supercharger,540,580,1700,Manual,6,0.30,320,4.4,Continental ExtremeContact DWS 06,20,119,04:02.55
+Car160,AWD,4,Flat,2900,turbo,400,430,1600,Automatic,8,0.31,280,5.2,Bridgestone Potenza RE-71R,18,110,04:12.70
+Car161,FWD,4,Inline,2000,supercharger,300,320,1300,DCT,7,0.35,240,6.0,Michelin Pilot Sport 4S,17,132,04:14.95
+Car162,4WD,8,V,6000,both,650,700,1850,Sequential,8,0.27,340,3.3,Pirelli P Zero,21,102,03:49.75
+Car163,RWD,6,V,4500,turbo,640,680,1750,Manual,6,0.31,335,3.8,Hankook Ventus RS4,22,120,04:01.65
+Car164,AWD,4,Flat,2700,turbo,420,450,1700,Automatic,8,0.29,285,4.5,Goodyear Eagle F1,19,116,04:12.40
+Car165,FWD,3,Inline,1800,turbo,270,290,1250,Manual,6,0.36,225,7.1,Hankook Ventus RS4,16,137,04:25.85
+Car166,4WD,12,V,7000,both,750,800,2100,Sequential,8,0.26,370,2.9,Toyo Proxes R1R,24,97,03:37.55
+Car167,RWD,6,V,3800,supercharger,550,590,1650,Manual,6,0.31,325,4.0,Continental ContiSportContact 5,21,121,04:09.05
+Car168,AWD,4,Flat,2800,both,410,440,1850,Manual,6,0.29,285,4.8,Bridgestone Potenza S-04 Pole Position,18,112,04:20.90
+Car169,FWD,4,V,2400,supercharger,320,340,1400,Manual,6,0.33,245,6.2,Bridgestone Potenza RE-71R,18,129,04:22.40
+Car170,4WD,8,V,5800,both,640,690,1950,Sequential,8,0.27,350,3.2,Continental ContiSportContact 6,21,101,03:50.95
+Car171,RWD,6,Inline,3600,turbo,600,640,1600,Manual,6,0.31,330,4.0,Hankook Ventus RS4,21,122,04:08.25
+Car172,RWD,6,V,4400,naturally_aspirated,520,560,1650,DCT,7,0.29,330,3.7,Pirelli P Zero,21,118,04:03.60
+Car173,AWD,4,Flat,3000,turbo,450,480,1850,Manual,6,0.28,295,4.3,Michelin Pilot Sport 4,20,112,04:14.20
+Car174,FWD,4,Inline,2200,supercharger,300,320,1350,CVT,8,0.32,250,6.2,Continental ExtremeContact Sport,19,127,04:19.45
+Car175,4WD,8,V,6200,both,660,700,2000,Sequential,8,0.27,360,3.2,Bridgestone Potenza RE-71R,22,99,03:46.85
+Car176,RWD,6,V,5100,turbo,660,700,1850,Manual,6,0.30,340,3.6,Michelin Pilot Sport Cup 2,21,121,03:59.80
+Car177,AWD,4,Inline,3200,naturally_aspirated,420,450,1700,Automatic,8,0.28,285,5.0,Goodyear Eagle F1,20,116,04:11.25
+Car178,FWD,3,Inline,2000,turbo,270,290,1300,Manual,6,0.35,220,7.3,Hankook Ventus RS4,17,138,04:27.35
+Car179,4WD,12,V,7100,both,770,820,2100,Sequential,8,0.26,375,2.8,Toyo Proxes R1R,24,96,03:37.25
+Car180,RWD,6,Inline,3600,supercharger,560,600,1750,Manual,6,0.31,340,3.7,Continental ContiSportContact 5,21,118,04:10.50
+Car181,AWD,4,Flat,2800,both,430,460,1900,Manual,6,0.29,290,4.8,Bridgestone Potenza S-04 Pole Position,19,111,04:22.00
+Car182,FWD,4,V,2500,naturally_aspirated,330,350,1400,CVT,8,0.32,255,6.0,Pirelli P Zero,18,132,04:27.10
+Car183,4WD,10,V,7400,both,760,810,2100,DCT,7,0.27,365,2.9,Pirelli P Zero Corsa,23,97,03:50.60
+Car184,RWD,6,V,4500,supercharger,540,580,1700,Manual,6,0.31,335,3.8,Goodyear Eagle Exhilarate,21,120,04:02.10
+Car185,AWD,4,Inline,3000,naturally_aspirated,380,400,1650,Automatic,8,0.29,280,5.1,Michelin Pilot Sport 4S,19,115,04:14.60
+Car186,FWD,3,Inline,1900,turbo,260,280,1250,Manual,6,0.36,220,7.2,Continental ExtremeContact DWS 06,16,139,04:28.50
+Car187,4WD,8,V,6600,both,700,750,2000,Sequential,8,0.26,370,2.9,Toyo Proxes T1R,24,96,03:36.45
+Car188,RWD,6,V,3800,turbo,610,650,1650,Manual,6,0.30,330,3.9,Hankook Ventus RS4,21,121,04:08.10
+Car189,AWD,4,Flat,2800,turbo,430,460,1900,Automatic,8,0.28,295,4.7,Michelin Pilot Sport Cup 2,20,113,04:11.80
+Car190,FWD,4,V,2400,supercharger,320,340,1400,Manual,6,0.33,245,6.2,Bridgestone Potenza RE-71R,18,129,04:22.65
+Car191,4WD,8,V,5900,both,640,690,1950,Sequential,8,0.27,350,3.2,Continental ContiSportContact 6,21,101,03:50.80
+Car192,RWD,6,Inline,3700,turbo,600,640,1600,Manual,6,0.31,330,4.0,Hankook Ventus RS4,21,122,04:07.95
+Car193,AWD,4,Flat,2800,turbo,430,460,1850,Automatic,8,0.29,290,4.6,Michelin Pilot Sport Cup 2,19,114,04:11.95
+Car194,FWD,3,Inline,2000,supercharger,280,300,1300,CVT,8,0.34,240,6.5,Bridgestone Potenza S-04 Pole Position,17,129,04:20.05
+Car195,4WD,10,V,7200,both,720,770,2050,Sequential,8,0.27,355,3.1,Goodyear Eagle Exhilarate,22,98,03:51.35
+Car196,RWD,6,V,4600,naturally_aspirated,480,520,1600,Sequential,7,0.29,315,4.2,Continental ExtremeContact Sport,21,120,04:04.40
+Car197,AWD,4,Inline,2800,turbo,360,390,1700,Manual,6,0.30,280,4.8,Hankook Ventus RS4,18,112,04:16.70
+Car198,FWD,4,V,2400,naturally_aspirated,310,330,1350,Automatic,8,0.32,255,5.8,Pirelli P Zero Corsa,18,131,04:24.25
+Car199,4WD,8,V,5900,both,630,670,1950,Sequential,8,0.28,350,3.5,Michelin Pilot Sport PS2,21,104,03:52.15
+Car200,RWD,6,Inline,3900,supercharger,540,580,1700,Manual,6,0.30,320,4.4,Continental ExtremeContact DWS 06,20,119,04:02.55
+Car201,AWD,4,Flat,2900,turbo,400,430,1600,Automatic,8,0.31,280,5.2,Bridgestone Potenza RE-71R,18,110,04:12.70
+Car202,FWD,4,Inline,2000,supercharger,300,320,1300,DCT,7,0.35,240,6.0,Michelin Pilot Sport 4S,17,132,04:14.95
+Car203,4WD,8,V,6000,both,650,700,1850,Sequential,8,0.27,340,3.3,Pirelli P Zero,21,102,03:49.75
+Car204,RWD,6,V,4500,turbo,640,680,1750,Manual,6,0.31,335,3.8,Hankook Ventus RS4,22,120,04:01.65
+Car205,AWD,4,Flat,2700,turbo,420,450,1700,Automatic,8,0.29,285,4.5,Goodyear Eagle F1,19,116,04:12.40
+Car206,FWD,3,Inline,1800,turbo,270,290,1250,Manual,6,0.36,225,7.1,Hankook Ventus RS4,16,137,04:25.85
